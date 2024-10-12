@@ -1,0 +1,7 @@
+{
+  "1.6": {
+    "banner": false,
+    "interstitial": true,
+    "appopen": true
+  }
+}
