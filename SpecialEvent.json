@@ -1,1 +1,38 @@
+[
+    {
+        "date": "11-23",
+        "image_url": "https://e7.pngegg.com/pngimages/853/610/png-clipart-christmas-and-holiday-season-merry-christmas-food-holidays-thumbnail.png",
+        "link": "https://example.com/christmas"
+    },
+    {
+        "date": "12-25",
+        "image_url": "https://example.com/images/christmas_icon.png",
+        "link": "https://example.com/christmas"
+    },
+    {
+        "date": "10-31",
+        "image_url": "https://example.com/images/halloween_icon.png",
+        "link": "https://example.com/halloween"
+    },
+    {
+        "date": "01-01",
+        "image_url": "https://example.com/images/newyear_icon.png",
+        "link": "https://example.com/newyear"
+    },
+    {
+        "date": "07-04",
+        "image_url": "https://example.com/images/independence_day_icon.png",
+        "link": "https://example.com/independence-day"
+    },
+    {
+        "date": "02-14",
+        "image_url": "https://example.com/images/valentines_icon.png",
+        "link": "https://example.com/valentines-day"
+    },
+    {
+        "date": "11-24",
+        "image_url": "https://example.com/images/thanksgiving_icon.png",
+        "link": "https://example.com/thanksgiving"
+    }
+]
 
